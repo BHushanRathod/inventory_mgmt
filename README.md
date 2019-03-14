@@ -52,3 +52,7 @@ Run server::
     * For getting purchase list, hit with GET call
     
             http://localhost:8000/inventory/purchase
+            
+    * To add or update an item hit, use /admin credentials as username:' bhushan' and pswd: 'qwerty@123'
+    
+            http://localhost:8000/admin/inventory_details/invertorystack/
